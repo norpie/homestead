@@ -1,2 +1,2 @@
-# homestead
-Home automation software
+# Homestead
+> Whatever you do, don't get homesick; get homestead!
